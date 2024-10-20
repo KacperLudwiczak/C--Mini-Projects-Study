@@ -1,0 +1,15 @@
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\bin\Debug\net7.0\Age Checking -KL.exe
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\bin\Debug\net7.0\Age Checking -KL.deps.json
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\bin\Debug\net7.0\Age Checking -KL.runtimeconfig.json
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\bin\Debug\net7.0\Age Checking -KL.dll
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\bin\Debug\net7.0\Age Checking -KL.pdb
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.csproj.AssemblyReference.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.AssemblyInfoInputs.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.AssemblyInfo.cs
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.csproj.CoreCompileInputs.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.dll
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\refint\Age Checking -KL.dll
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.pdb
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\Age Checking -KL.genruntimeconfig.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Age Checking -KL\Age Checking -KL\obj\Debug\net7.0\ref\Age Checking -KL.dll
