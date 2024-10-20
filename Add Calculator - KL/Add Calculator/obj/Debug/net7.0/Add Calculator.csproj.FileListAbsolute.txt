@@ -1,0 +1,15 @@
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\bin\Debug\net7.0\Add Calculator.exe
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\bin\Debug\net7.0\Add Calculator.deps.json
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\bin\Debug\net7.0\Add Calculator.runtimeconfig.json
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\bin\Debug\net7.0\Add Calculator.dll
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\bin\Debug\net7.0\Add Calculator.pdb
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.csproj.AssemblyReference.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.AssemblyInfoInputs.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.AssemblyInfo.cs
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.dll
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\refint\Add Calculator.dll
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.pdb
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\Add Calculator.genruntimeconfig.cache
+C:\Users\HP-450G3\Desktop\Kacper\C# Kurs\Add Calculator\Add Calculator\obj\Debug\net7.0\ref\Add Calculator.dll
